@@ -22,6 +22,7 @@ Large enterprises solve this with big DevOps teams. Small companies often rely o
 ## 🧠 My Solution: YAML + Python + Terraform + Pipeline
 
 To bridge this gap, I designed a **declarative, scalable, and pipeline-driven IaC process**.
+![IaC Architecture](https://raw.githubusercontent.com/Ivanjin-king/IaC-Infrastructure-As-Code/refs/heads/main/github-test.webp)
 
 ### ✅ Key Ideas
 
